@@ -10,16 +10,15 @@ PhantomCrawler allows users to simulate website interactions through different p
 - Logs proxy information, HTTP status codes, and errors for analysis.
 
 **Usage:**
-PhantomCrawler is a versatile tool with various applications, including:
 - **POC Testing:** Simulate website interactions to assess functionality under different proxy setups.
 - **Web Traffic Increase:** Boost website hits by generating requests from multiple proxy IPs.
 - **Proxy Rotation Testing:** Evaluate the effectiveness of rotating proxy IPs.
 - **Web Scraping Testing:** Assess web scraping tasks under different proxy configurations.
 - **DDoS Awareness:** Caution: The tool has the potential for misuse as a DDoS tool. Ensure responsible and ethical use.
 
-**Get proxies** and add in `proxies.txt`
+**Get New Proxies** with port and add in `proxies.txt` in this format `50.168.163.176:80`
 
-You can add it from here: https://free-proxy-list.net/
+- You can add it from here: https://free-proxy-list.net/
 
 **How to Use:**
 1. Clone the repository: `git clone https://github.com/yourusername/PhantomCrawler.git`
