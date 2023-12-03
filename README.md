@@ -17,9 +17,9 @@ PhantomCrawler is a versatile tool with various applications, including:
 - **Web Scraping Testing:** Assess web scraping tasks under different proxy configurations.
 - **DDoS Awareness:** Caution: The tool has the potential for misuse as a DDoS tool. Ensure responsible and ethical use.
 
-  Get proxies and add in proxies.txt
+**Get proxies** and add in `proxies.txt`
 
-you can add it from here: https://free-proxy-list.net/#
+you can add it from here: https://free-proxy-list.net/
 
 **How to Use:**
 1. Clone the repository: `git clone https://github.com/yourusername/PhantomCrawler.git`
