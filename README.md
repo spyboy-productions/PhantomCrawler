@@ -21,9 +21,23 @@ PhantomCrawler allows users to simulate website interactions through different p
 - You can add it from here: https://free-proxy-list.net/
 
 **How to Use:**
-1. Clone the repository: `git clone https://github.com/yourusername/PhantomCrawler.git`
-2. Install dependencies: `pip3 install -r requirements.txt`
-3. Run the script: `python3 PhantomCrawler.py`
+1. Clone the repository:
+   
+```
+git clone https://github.com/yourusername/PhantomCrawler.git
+```
+
+3. Install dependencies:
+   
+```
+pip3 install -r requirements.txt
+```
+
+5. Run the script:
+
+```
+python3 PhantomCrawler.py
+```
 
 **Disclaimer:**
 PhantomCrawler is intended for educational and testing purposes only. Users are cautioned against any misuse, including potential DDoS activities. Always ensure compliance with the terms of service of websites being tested and adhere to ethical standards.
