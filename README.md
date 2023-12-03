@@ -1,5 +1,5 @@
 # PhantomCrawler
-PhantomCrawler lightweight Python tool designed for Proof of Concept (POC) testing, allowing users to simulate website interactions through different proxy IP addresses. It leverages Python, requests, and BeautifulSoup to offer a simple and effective way to test website behaviour under varied proxy configurations.
+PhantomCrawler allows users to simulate website interactions through different proxy IP addresses. It leverages Python, requests, and BeautifulSoup to offer a simple and effective way to test website behaviour under varied proxy configurations.
 
 **Features:**
 - Utilizes a list of proxy IP addresses from a specified file.
@@ -19,12 +19,12 @@ PhantomCrawler is a versatile tool with various applications, including:
 
 **Get proxies** and add in `proxies.txt`
 
-you can add it from here: https://free-proxy-list.net/
+You can add it from here: https://free-proxy-list.net/
 
 **How to Use:**
 1. Clone the repository: `git clone https://github.com/yourusername/PhantomCrawler.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the script: `python proxies.py`
+2. Install dependencies: `pip3 install -r requirements.txt`
+3. Run the script: `python3 PhantomCrawler.py`
 
 **Disclaimer:**
 PhantomCrawler is intended for educational and testing purposes only. Users are cautioned against any misuse, including potential DDoS activities. Always ensure compliance with the terms of service of websites being tested and adhere to ethical standards.
