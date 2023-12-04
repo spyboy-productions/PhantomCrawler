@@ -45,10 +45,10 @@ def read_proxy_list(file_path):
 
 
 # Get user input for website URL
-website_url = input("Enter the website URL: ")  # https://spyboy.blog
+website_url = input(f"{R}Enter the website URL: {W}")  # https://spyboy.blog
 
 # Get user input for the proxy list file
-proxy_file_path = input("Enter the path to the proxy list file: ")  # valid_proxy.txt
+proxy_file_path = input(f"{R}Enter the path to the proxy list file: {W}")  # valid_proxy.txt
 
 # Read proxy list from the specified file
 proxies = read_proxy_list(proxy_file_path)
