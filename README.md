@@ -39,3 +39,11 @@ python3 PhantomCrawler.py
 
 **Disclaimer:**
 PhantomCrawler is intended for educational and testing purposes only. Users are cautioned against any misuse, including potential DDoS activities. Always ensure compliance with the terms of service of websites being tested and adhere to ethical standards.
+---
+
+#### 💬 If having an issue [Chat here](https://discord.gg/ZChEmMwE8d)
+[![Discord Server](https://discord.com/api/guilds/726495265330298973/embed.png)](https://discord.gg/ZChEmMwE8d)
+
+### ⭔ Snapshots:
+---
+<img width="100%" align="centre" src="https://cdn.discordapp.com/attachments/1141162711464550430/1181285241978093638/Screenshot_2023-12-04_at_9.08.26_PM.png" />
