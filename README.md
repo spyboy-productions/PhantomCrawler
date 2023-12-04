@@ -16,7 +16,7 @@ PhantomCrawler allows users to simulate website interactions through different p
 
 ⚠️ **Get New Proxies** with port and add in `proxies.txt` in this format `50.168.163.176:80`
 
-- You can add it from here: https://free-proxy-list.net/
+- You can add it from here: https://free-proxy-list.net/ these free proxies are not validated some might not work so first validate hesse proxies before adding.
 
 **How to Use:**
 1. Clone the repository:
