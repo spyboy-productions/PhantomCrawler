@@ -59,9 +59,9 @@ def visit_link(proxy, website_url, link):
         absolute_link = requests.compat.urljoin(website_url, link)
         with requests.get(absolute_link, proxies=proxy, timeout=5) as response:
             response.raise_for_status()
-            print(f"Proxy {proxy['http']} - Visiting: {absolute_link}")
+            print(f"{C}Proxy {proxy['http']} - {G}Visiting: {absolute_link}")
     except requests.exceptions.RequestException as e:
-        print(f"Error with proxy {proxy['http']}: {e}")
+        print(f"{R}Error with proxy {proxy['http']}{Y}: {e}")
 
 
 # Make requests concurrently using threading
@@ -87,7 +87,7 @@ with concurrent.futures.ThreadPoolExecutor() as executor:
                 for link in links:
                     futures.append(executor.submit(visit_link, proxy, website_url, link))
         except requests.exceptions.RequestException as e:
-            print(f"Error with proxy {proxy['http']}: {e}")
+            print(f"{R}Error with proxy {proxy['http']} {Y}: {e}")
 
     # Wait for all threads to complete
     concurrent.futures.wait(futures)
