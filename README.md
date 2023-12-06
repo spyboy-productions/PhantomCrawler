@@ -22,7 +22,7 @@ PhantomCrawler allows users to simulate website interactions through different p
 1. Clone the repository:
    
 ```
-git clone https://github.com/yourusername/PhantomCrawler.git
+git clone https://github.com/spyboy-productions/PhantomCrawler.git
 ```
 
 3. Install dependencies:
