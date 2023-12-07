@@ -1,3 +1,26 @@
+<p align="center">
+    <a href="https://spyboy.in/twitter">
+      <img src="https://img.shields.io/badge/-TWITTER-black?logo=twitter&style=for-the-badge">
+    </a>
+    &nbsp;
+    <a href="https://spyboy.in/">
+      <img src="https://img.shields.io/badge/-spyboy.in-black?logo=google&style=for-the-badge">
+    </a>
+    &nbsp;
+    <a href="https://spyboy.blog/">
+      <img src="https://img.shields.io/badge/-spyboy.blog-black?logo=wordpress&style=for-the-badge">
+    </a>
+    &nbsp;
+    <a href="https://spyboy.in/Discord">
+      <img src="https://img.shields.io/badge/-Discord-black?logo=discord&style=for-the-badge">
+    </a>
+  
+</p>
+
+<img width="100%" align="centre" src="https://cdn.discordapp.com/attachments/1141162711464550430/1182114732078006352/phantom.png" />
+
+<be>
+
 PhantomCrawler allows users to simulate website interactions through different proxy IP addresses. It leverages Python, requests, and BeautifulSoup to offer a simple and effective way to test website behaviour under varied proxy configurations.
 
 **Features:**
