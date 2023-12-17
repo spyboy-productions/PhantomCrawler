@@ -71,3 +71,5 @@ PhantomCrawler is intended for educational and testing purposes only. Users are 
 ### ⭔ Snapshots:
 ---
 <img width="100%" align="centre" src="https://cdn.discordapp.com/attachments/1141162711464550430/1181285241978093638/Screenshot_2023-12-04_at_9.08.26_PM.png" />
+
+<h4 align="center"> If you find this GitHub repo useful, please consider giving it a star! ⭐️ </h4> 
